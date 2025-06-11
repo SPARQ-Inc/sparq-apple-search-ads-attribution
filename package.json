@@ -1,0 +1,43 @@
+{
+  "name": "expo-apple-search-ads-attribution",
+  "version": "1.0.0",
+  "description": "Reads Apple Search Ads Attribution API in iOS on Expo EAS",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPARQ-Inc/sparq-apple-search-ads-attribution"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-components",
+    "react",
+    "native",
+    "react-native",
+    "ios",
+    "component",
+    "apple",
+    "search",
+    "ads",
+    "attribution",
+    "API",
+    "iAd",
+    "attributionDetails"
+  ],
+  "author": "Rochdi Belhirch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SPARQ-Inc/sparq-apple-search-ads-attribution/issues"
+  },
+  "homepage": "https://github.com/SPARQ-Inc/sparq-apple-search-ads-attribution#readme",
+  "dependencies": {
+    "react-native": "^0.64.3",
+    "@expo/config-plugins": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.67.4"
+  }
+}
